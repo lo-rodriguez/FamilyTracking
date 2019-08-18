@@ -1,4 +1,4 @@
-package com.ronasoft.familytracking;
+package net.ronasoft.familytracking;
 
 import android.app.Activity;
 import android.support.design.widget.CollapsingToolbarLayout;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.ronasoft.familytracking.buget.ActiveBudgetLoad;
+import net.ronasoft.familytracking.buget.ActiveBudgetLoad;
 
 /**
  * A fragment representing a single Item detail screen.

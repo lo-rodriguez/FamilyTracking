@@ -1,4 +1,4 @@
-package com.ronasoft.familytracking.Models;
+package net.ronasoft.familytracking.Models;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;

@@ -1,4 +1,4 @@
-package com.ronasoft.familytracking.commons;
+package net.ronasoft.familytracking.commons;
 
 import java.sql.SQLException;
 
@@ -12,8 +12,8 @@ import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.RuntimeExceptionDao;
 import com.j256.ormlite.support.ConnectionSource;
 import com.j256.ormlite.table.TableUtils;
-import com.ronasoft.familytracking.Models.ActiveBudget;
-import com.ronasoft.familytracking.R;
+import net.ronasoft.familytracking.Models.ActiveBudget;
+import net.ronasoft.familytracking.R;
 
 /**
  * Database helper class used to manage the creation and upgrading of your database. This class also usually provides

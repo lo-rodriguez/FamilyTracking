@@ -1,0 +1,11 @@
+{
+  "client_id": "{clientIdValue}",
+  "redirect_uri": "{redirectUriValue}",
+  "end_session_redirect_uri": "{endSessionUri}",
+  "scopes": [
+    "openid",
+    "profile",
+    "offline_access"
+  ],
+  "issuer_uri": "https://dev-547502.okta.com/oauth2/default"
+}

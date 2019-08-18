@@ -1,4 +1,4 @@
-package com.ronasoft.familytracking.commons;
+package net.ronasoft.familytracking.commons;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

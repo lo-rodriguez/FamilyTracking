@@ -1,8 +1,8 @@
-package com.ronasoft.familytracking.commons;
+package net.ronasoft.familytracking.commons;
 
 import com.google.common.reflect.ClassPath;
 import com.j256.ormlite.android.apptools.OrmLiteConfigUtil;
-import com.ronasoft.familytracking.Models.ActiveBudget;
+import net.ronasoft.familytracking.Models.ActiveBudget;
 
 
 import java.io.IOException;

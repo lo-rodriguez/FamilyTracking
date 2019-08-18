@@ -1,4 +1,4 @@
-package com.ronasoft.familytracking.commons;
+package net.ronasoft.familytracking.commons;
 
 import android.content.Context;
 import android.content.res.AssetManager;

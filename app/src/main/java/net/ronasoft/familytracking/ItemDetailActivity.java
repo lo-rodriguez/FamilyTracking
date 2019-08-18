@@ -1,4 +1,4 @@
-package com.ronasoft.familytracking;
+package net.ronasoft.familytracking;
 
 import android.content.Intent;
 import android.os.Bundle;

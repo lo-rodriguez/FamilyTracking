@@ -1,4 +1,4 @@
-package com.ronasoft.familytracking.ContentProvider;
+package net.ronasoft.familytracking.ContentProvider;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
@@ -6,7 +6,7 @@ import android.database.Cursor;
 import android.net.Uri;
 
 import com.j256.ormlite.android.apptools.OrmLiteBaseActivity;
-import com.ronasoft.familytracking.commons.DatabaseHelper;
+import net.ronasoft.familytracking.commons.DatabaseHelper;
 
 public class DatabseContentProvider  extends OrmLiteBaseActivity<DatabaseHelper> {
 
